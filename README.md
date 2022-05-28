@@ -7,6 +7,7 @@ The minimal requirement for the plan (for 40points):
 1 sampler
 1 assertion
 1 listener
+
 For better grades:
 
 additional samplers for filling a form (for example login) and additional assertions checking the result (for +20  points)
