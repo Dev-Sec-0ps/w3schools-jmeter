@@ -4,9 +4,9 @@ Make a JMeter performance test plan and document the results as a pdf file.
 
 The minimal requirement for the plan (for 40points):
 
-1 sampler
-1 assertion
-1 listener
+- 1 sampler
+- 1 assertion
+- 1 listener
 
 For better grades:
 
